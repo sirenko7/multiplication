@@ -13,7 +13,7 @@ public class Main {
             System.out.println(BigNumberMultiplier.multiply(args[1], args[2]));
         }
 
-        //Uncomment this if you want to use IDE's console
+        //Uncomment the section down below and comment the upper one if you want to use IDE's console
 
 //        Scanner in = new Scanner(System.in);
 //        System.out.print("Enter first number: ");

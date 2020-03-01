@@ -7,11 +7,12 @@
 # Log file
 *.log
 
-# BlueJ files
-*.ctxt
-
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
+# Intellij
+.idea/
+*.iml
+*.iws
+out/
+artifacts/
 
 # Package Files #
 *.jar
